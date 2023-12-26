@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\bin\Release\net7.0\SalvaLucro.deps.json
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\bin\Release\net7.0\SalvaLucro.dll
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\bin\Release\net7.0\SalvaLucro.pdb
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.AssemblyInfo.cs
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.dll
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\refint\SalvaLucro.dll
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\SalvaLucro.pdb
+C:\Users\camil\source\repos\Bomgado.SF\SalvaLucro\obj\Release\net7.0\ref\SalvaLucro.dll
